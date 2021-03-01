@@ -11,7 +11,7 @@
     "react-scripts": "^3.4.0",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.0.19",
-    "three": "^0.114.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {},
   "scripts": {
